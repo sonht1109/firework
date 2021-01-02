@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded",function(){
         canvas.width = window.innerWidth;
         canvas.height = window.innerHeight;
     });
-    canvas.style.background = 'black';
+    canvas.style.backgroundImage = 'linear-gradient(to top, #00204f, #001d46, #00193c, #001633, #00112a)';
 
     const colors = [
         'red', 'white', 'blue', 'purple', 'green', 'yellow', 'orange', 'pink',
